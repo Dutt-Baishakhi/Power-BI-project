@@ -11,4 +11,22 @@ I recently worked on a Netflix Dashboard using Power BI, where I transformed raw
 
  hashtag#PowerBI hashtag#Python hashtag#NetflixDashboard hashtag#DataVisualization #MachineLearning#growdataskills 
 
- 
+2. #POWER BI PROJECT FOR ZOMATO
+
+📊 Power BI Dashboard – Zomato Data Insights
+
+Excited to share a dynamic Power BI dashboard I built for Zomato, focused on delivering actionable insights from complex food delivery data.
+
+💡 Dashboard Features:
+
+📍 City-level performance analysis (Top 10 cities by revenue, orders, and customer ratings)
+
+🍽️ Cuisine popularity trends and peak order time analysis
+
+📦 Delivery efficiency metrics (average delivery time, cancellations, etc.)
+
+👥 Customer behavior insights (repeat orders, rating trends, etc.)
+
+🧩 Fully interactive visuals with slicers and drill-through functionality
+
+This dashboard transforms raw data into clear, interactive visuals to support data-driven decision-making and operational improvements.
